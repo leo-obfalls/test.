@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://leo-obfalls.github.io/test./manifests/manifest.json",
     "label" : "[Click to edit label]"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://leo-obfalls.github.io/test./manifests/manifesmt.json",
+    "label" : "[Click to edit label]"
   } ]
 }
